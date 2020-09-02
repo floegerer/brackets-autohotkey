@@ -1,0 +1,16 @@
+{
+    "name": "brackets-autohotkey",
+    "title": "AHK support",
+    "description": "Support for Autohotkey Scripts (AHK)",
+    "homepage": "https://github.com/floegerer/brackets-autohotkey",
+    "version": "0.1",
+    "author": {
+        "name": "floegerer",
+        "url": "https://github.com/floegerer"
+    },
+    "license": "MIT",
+    "categories": "language",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
